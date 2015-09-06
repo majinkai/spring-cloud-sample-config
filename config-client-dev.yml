@@ -1,2 +1,9 @@
 config:
   name: Marker!
+spring:
+  data:
+    mongodb:
+	  host: 172.16.1.87
+	  port: 27017
+	  uri: mongodb://172.16.1.87/test
+	  database: test
