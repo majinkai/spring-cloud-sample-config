@@ -1,5 +1,6 @@
 config:
   name: Marker!
+
 spring:
   data:
     mongodb:
